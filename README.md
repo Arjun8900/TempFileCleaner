@@ -3,13 +3,13 @@
 2. C:\Windows\Temp 
 3. C:\Windows\Prefetch
 
-## STEPS to follow:
+## Steps to follow:
 1. This is applicable only for `Windows OS`.
-2. Update temp folder location in `Input.txt`
+2. Update temp folder's location in `Input.txt`
 3. Run `run.bat` (This file run the jar file with Input.txt file).
 
 
-## Run.bat
+## `run.bat` content
 ```shell
 @echo off
 java -cp "TempFileCleaner-1.0-SNAPSHOT.jar" "org.example.Main" Input.txt
