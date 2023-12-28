@@ -15,3 +15,6 @@
 java -cp "TempFileCleaner-1.0-SNAPSHOT.jar" "org.example.Main" Input.txt
 pause
 ```
+
+## Output
+![Temp_File_Deleted](https://github.com/Arjun8900/TempFileCleaner/assets/30146648/2296eced-3e7b-4cd2-a7ca-fffa23d68016)
